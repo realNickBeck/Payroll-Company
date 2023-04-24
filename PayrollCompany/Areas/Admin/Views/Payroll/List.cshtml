@@ -1,0 +1,65 @@
+﻿@model List<Payroll>
+@{
+    ViewBag.Title = "Payroll Manager";
+}
+
+<h1>@ViewBag.Title</h1>
+<div class="row">
+    <div class="col-sm-2">
+        <ul class="list-group">
+            <a asp-action="List" asp-route-id="All"
+               class="list-group-item
+                @if (ViewBag.SelectedEmployeeName == "All") {
+                    <text>active</text>
+                } ">All</a>
+            @foreach (Employee c in ViewBag.Employee)
+            {
+                <a asp-action="List" asp-route-id="@c.LastName"
+                   class="list-group-item
+                         @(ViewBag.SelectedEmployeeName == c.LastName ? "active" : "")">
+                    @c.LastName
+                </a>
+            }
+        </ul>
+    </div>
+    <div class="col-sm-10">
+        <div class="col-sm-2">
+            </br>
+            <p1></p1>
+        </div> <a asp-controller="Payroll" asp-action="Add" class="btn btn-primary bg-transparent text-primary">Add New Payroll</a>
+        </br>
+        <p2></p2>
+        </br>
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Employee ID</th>
+                    <th>Severance</th>
+                    <th>Net Pay</th>
+                    <th>Gross Pay</th>
+                    <th>Tax Percent Withdrawal</th>
+                    <th></th>
+            </thead>
+            <tbody>
+                @foreach (var p in Model)
+                {
+                    <tr>
+                        <td>@p.EmployeeID</td>
+                        <td>@p.serverance.ToString("C")</td>
+                        <td>@p.NetPay.ToString("C")</td>
+                        <td>@p.GrossPay.ToString("C")</td>
+                        <td>@p.TaxPercentWidthdrawal.ToString("C")</td>
+                        <td>
+                            <a class="btn btn-primary"  asp-action="Update"
+                               asp-route-id="@p.PayrollID">Update</a>
+                        </td>
+                        <td>
+                            <a class ="btn btn-danger" asp-action="Delete"
+                               asp-route-id="@p.PayrollID">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

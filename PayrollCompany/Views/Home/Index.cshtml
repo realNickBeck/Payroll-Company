@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "PayRoll Company";
+}
+<div class="row">
+    <div class="col-sm-4">
+        <div class="list-group">
+            <a asp-controller="Home" asp-action="Account"
+               class="list-group-item">My Account</a>
+            <a asp-controller="Home" asp-action="Timesheet"
+               class="list-group-item">My Timesheet</a>
+            <a asp-controller="Home" asp-action="Payroll"
+               class="list-group-item">My Payroll</a>
+
+            <a asp-controller="Home" asp-action="Leave"
+               class="list-group-item">My Time Off</a>
+
+            <a asp-controller="Index"
+               class="list-group-item">Logout</a>
+        </div>
+    </div>
+</div>

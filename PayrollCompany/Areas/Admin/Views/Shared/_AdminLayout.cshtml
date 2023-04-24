@@ -1,0 +1,83 @@
+﻿@{
+    string controller =
+        ViewContext.RouteData.Values["controller"].ToString();
+    string action =
+        ViewContext.RouteData.Values["action"].ToString();
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/css/custom.less" />
+
+    <!-- Connect to the bootstrap library -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+
+    <style>
+        body {
+            padding: 1em;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: lightgreen;
+        }
+
+        label {
+            display: inline-block;
+            width: 13em;
+            padding-right: 1em;
+        }
+
+        div {
+            margin-bottom: .5em;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <!-- nav bar// contains link to home page and about page -->
+        <nav class="navbar navbar-expand-md navbar-dark bg-success fixed-top">
+            <a class="navbar-brand" href="/">PayRoll</a>
+            <button class="navbar-toggler" type="button"
+                    data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <nav class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="navbar-nav mr-auto">
+                    <a class="nav-link
+                        @(controller == "Home" && action == "Index" ? "active" : "")"
+                       asp-controller="Home" asp-action="Index">Admin</a>
+                    <a class="nav-link
+                        @(controller == "Employee" ? "active" : "")"
+                       asp-controller="Employee" asp-action="Index">Employee</a>
+                    <a class="nav-link
+                        @(controller == "Payroll" ? "active" : "")"
+                       asp-controller="Payroll" asp-action="Index">Payroll</a>
+                    <a class="nav-link
+                        @(controller == "EmployeeProject" ? "active" : "")"
+                       asp-controller="EmployeeProject" asp-action="Index">Employee-Project</a>
+                    <a class="nav-link
+                        @(controller == "Project" ? "active" : "")"
+                       asp-controller="Project" asp-action="Index">Project</a>
+                </div>
+                <div class="navbar-nav navbar-right">
+                    <a class="nav-link"
+                       asp-area="" asp-controller="Home" asp-action="Index">View Site</a>
+                </div>
+            </nav>
+        </nav>
+
+        <!-- header// contains jumbotron with image and heading -->
+        <header class="jumbotron text-white text-center bg-success mt-1">
+            <img id="logo" alt="money" src="~/images/new.png" width="300" height="200"
+                 class="img-responsive rounded" />
+            <h1>@ViewBag.Title</h1>
+        </header>
+        @RenderBody()
+    </div>
+</body>
+</html>

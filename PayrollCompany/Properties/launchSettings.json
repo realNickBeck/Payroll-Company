@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "PayrollCompany": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:62137;http://localhost:62138",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

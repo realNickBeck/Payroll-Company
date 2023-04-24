@@ -1,0 +1,13 @@
+﻿@model EmployeeProject
+@{
+    ViewBag.Title = "Deassign Project";
+}
+<h1>Confirm Deassignment</h1>
+
+
+<form asp-action="Deassign" method="post">
+     <input type="hidden" asp-for="EmployeeProjectID" />
+
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="List" class="btn btn-secondary">Cancel</a>
+</form>

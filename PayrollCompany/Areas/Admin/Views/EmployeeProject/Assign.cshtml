@@ -1,0 +1,63 @@
+﻿@model EmployeeProject
+@{
+    ViewBag.Title = "Assign Project";
+}
+<h1>@ViewBag.Title</h1>
+
+<form asp-action="Assign" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="Project.ProjectName"> Project Name: </label>
+        <input asp-for="Project.ProjectName" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Project.ProjectTimespan"> Project Time Span: </label>
+        <input asp-for="Project.ProjectTimespan" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.FirstName"> Employee First Name: </label>
+        <input asp-for="Employee.FirstName" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.LastName"> Employee Last Name: </label>
+        <input asp-for="Employee.LastName" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.Title"> Employee Title: </label>
+        <input asp-for="Employee.Title" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.Username"> Employee Username: </label>
+        <input asp-for="Employee.Username" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.Password"> Employee Password: </label>
+        <input asp-for="Employee.Password" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.Address">Employee's Address: </label>
+        <input asp-for="Employee.Address" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.City">Employee's City: </label>
+        <input asp-for="Employee.City" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.State">Employee's State: </label>
+        <input asp-for="Employee.State" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.ZipCode">Employee's Zip Code: </label>
+        <input asp-for="Employee.ZipCode" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Employee.DepartmentID">Department: </label>
+        <input asp-for="Employee.DepartmentID" class="form-control" />
+        </div>
+
+    <input type="hidden" asp-for="EmployeeProjectID" />
+
+    <button type="submit" class="btn btn-primary">@ViewBag.Action</button>
+    <a asp-action="List" class="btn btn-secondary">Cancel</a>
+</form>

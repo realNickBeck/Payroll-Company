@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Admin";
+}
+<div class="row">
+    <div class="col-sm-4">
+        <div class="list-group">
+            <a asp-controller="Employee" asp-action="Add"
+               class="list-group-item">Register New Employee</a>
+            <a asp-controller="Employee" asp-action="List"
+               class="list-group-item">Employee Information</a>
+
+            <a asp-controller="Project" asp-action="Add"
+               class="list-group-item">Add New Project</a>
+            <a asp-controller="Project" asp-action="List"
+               class="list-group-item">Project Information</a>
+
+            <a asp-controller="EmployeeProject" asp-action="Assign"
+               class="list-group-item">Assign New Project</a>
+            <a asp-controller="EmployeeProject" asp-action="List"
+               class="list-group-item">Employee-Project Information</a>
+
+            <a asp-controller="Payroll" asp-action="Add"
+               class="list-group-item">Add New Payroll</a>
+            <a asp-controller="Payroll" asp-action="List"
+               class="list-group-item">Payroll Information</a>
+
+
+            <a asp-controller="Product" asp-action="Index"
+               class="list-group-item">Logout</a>
+        </div>
+    </div>
+</div>

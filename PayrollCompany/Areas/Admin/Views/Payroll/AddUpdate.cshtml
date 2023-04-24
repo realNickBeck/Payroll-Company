@@ -1,0 +1,52 @@
+﻿@model Payroll
+@{
+    string title = ViewBag.Action + " Payroll";
+    ViewBag.Title = title;   
+}
+
+<h1>@ViewBag.Title</h1>
+
+<form asp-action="Update" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="EmployeeID">Employee First Name: </label>
+        <select asp-for="EmployeeID"
+                asp-items="@(new SelectList(ViewBag.Employee,
+                         "EmployeeID", "FirstName",
+                         Model.EmployeeID.ToString()))"
+                class="form-control"></select>
+    </div>
+    <div class="form-group">
+        <label asp-for="EmployeeID">Employee Last Name: </label>
+        <select asp-for="EmployeeID"
+                asp-items="@(new SelectList(ViewBag.Employee,
+                         "EmployeeID", "LastName",
+                         Model.EmployeeID.ToString()))"
+                class="form-control"></select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="serverance">Severance: </label>
+        <input asp-for="serverance" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="NetPay">Net Pay: </label>
+        <input asp-for="NetPay" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="GrossPay">Gross Pay: </label>
+        <input asp-for="GrossPay" class="form-control">
+    </div>
+    <div class="form-group">
+         <label asp-for="TaxPercentWidthdrawal">Amount Taken from Taxes: </label>
+         <input asp-for="TaxPercentWidthdrawal" class="form-control">
+     </div>
+
+    <input type="hidden" asp-for="PayrollID" />
+
+    <button type="submit" class="btn btn-primary">@ViewBag.Action</button>
+    <a asp-action="List" class="btn btn-secondary">Cancel</a>
+</form>

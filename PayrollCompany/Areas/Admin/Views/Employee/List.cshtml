@@ -1,0 +1,56 @@
+﻿@model List<Employee>
+@{
+    ViewBag.Title = "Employee Manager";
+}
+<h1>@ViewBag.Title</h1>
+<div class="row">
+    <div class="col-sm-2">
+        <ul class="list-group">
+            <a asp-action="List" asp-route-id="All"
+               class="list-group-item
+               @if (ViewBag.SelectedDepartmentName == "All") {
+                    <text>active</text>
+                } ">All</a>
+            @foreach (Department c in ViewBag.Department)
+            {
+                <a asp-action="List" asp-route-id="@c.DepartmentName"
+               class="list-group-item
+                         @(ViewBag.SelectedDepartmentName == c.DepartmentName ? "active" : "")">
+                    @c.DepartmentName
+                </a>
+            }
+        </ul>
+    </div>
+    <div class="col-sm-10">
+        <div class="col-sm-2">
+            </br>
+            <p1></p1>
+            <a asp-action="Add" class="btn btn-primary bg-transparent text-primary">Add New Employee</a>
+        </div>
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Employee First Name</th>
+                    <th>Employee Last Name</th>
+                    <th>Employee Title</th>
+                    <th></th>
+            </thead>
+            <tbody>
+                @foreach (var p in Model)
+                {
+                    <tr>
+                        <td>@p.FirstName</td>
+                        <td>@p.LastName</td>
+                        <td>@p.Title</td>
+                        <td>
+                            <a class="btn btn-primary" asp-action="Update" asp-route-id="@p.EmployeeID">Update</a>
+                        </td>
+                        <td>
+                            <a class="btn btn-danger" asp-action="Delete" asp-route-id="@p.EmployeeID">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

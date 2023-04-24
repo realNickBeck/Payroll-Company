@@ -1,0 +1,1207 @@
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.exe
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.deps.json
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.json
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.dev.json
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.pdb
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.AssemblyReference.cache
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfoInputs.cache
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfo.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CoreCompileInputs.cache
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cache
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/PayrollCompany.StaticWebAssets.Manifest.cache
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.input.cache
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.output.cache
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorCoreGenerate.cache
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cache
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CopyComplete
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.pdb
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.genruntimeconfig.cache
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Home/Index.cshtml.g.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Shared/_AdminLayout.cshtml.g.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewImports.cshtml.g.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewStart.cshtml.g.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Employee.cshtml.g.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Project.cshtml.g.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Register.cshtml.g.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Modify.cshtml.g.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Delete.cshtml.g.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Delete.cshtml.g.cs
+C:/Users/beckn2/source/repos/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Assign.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.deps.json
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.json
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.dev.json
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.pdb
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.AssemblyReference.cache
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfoInputs.cache
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfo.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CoreCompileInputs.cache
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.MvcApplicationPartsAssemblyInfo.cache
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cache
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/PayrollCompany.StaticWebAssets.Manifest.cache
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/PayrollCompany.StaticWebAssets.Pack.cache
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.PayrollCompany.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.PayrollCompany.props
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.PayrollCompany.props
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.PayrollCompany.props
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.input.cache
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.output.cache
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorCoreGenerate.cache
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Delete.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Employee.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/List.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Modify.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Register.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/Assign.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/Deassign.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/EmployeeProject.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/List.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Home/Index.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Add.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Delete.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/List.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Project.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Update.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Shared/_AdminLayout.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewImports.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewStart.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Account.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Leave.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Payroll.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Timesheet.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cache
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cs
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CopyComplete
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.dll
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.pdb
+/Users/andi/Downloads/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.genruntimeconfig.cache
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.exe
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.deps.json
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.json
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.dev.json
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.pdb
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.AssemblyReference.cache
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfoInputs.cache
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfo.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CoreCompileInputs.cache
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cache
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/PayrollCompany.StaticWebAssets.Manifest.cache
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.input.cache
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.output.cache
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorCoreGenerate.cache
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/Assign.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/Deassign.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/EmployeeProject.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/AddUpdate.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Delete.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Employee.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Home/Index.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/AddUpdate.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/Delete.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Delete.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Project.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Shared/_AdminLayout.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewImports.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewStart.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Account.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Leave.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Payroll.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Timesheet.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cache
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CopyComplete
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.dll
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.pdb
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.genruntimeconfig.cache
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/Payroll.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 3/PayrollCompany 3/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/AddUpdate.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.AssemblyReference.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfoInputs.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfo.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CoreCompileInputs.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/PayrollCompany.StaticWebAssets.Manifest.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.input.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.output.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorCoreGenerate.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/Assign.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/Deassign.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/EmployeeProject.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/AddUpdate.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Delete.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Employee.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Home/Index.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/AddUpdate.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/Delete.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/Payroll.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/AddUpdate.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Delete.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Project.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Shared/_AdminLayout.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewImports.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewStart.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Account.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Leave.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Payroll.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Timesheet.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.pdb
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.exe
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.deps.json
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.json
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.dev.json
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.pdb
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CopyComplete
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.genruntimeconfig.cache
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.deps.json
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.json
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.dev.json
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.pdb
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.AssemblyReference.cache
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfoInputs.cache
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfo.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CoreCompileInputs.cache
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.MvcApplicationPartsAssemblyInfo.cache
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cache
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/PayrollCompany.StaticWebAssets.Manifest.cache
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/PayrollCompany.StaticWebAssets.Pack.cache
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.PayrollCompany.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.PayrollCompany.props
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.PayrollCompany.props
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.PayrollCompany.props
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.input.cache
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.output.cache
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorCoreGenerate.cache
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/AddUpdate.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Delete.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Employee.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/List.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/Assign.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/Deassign.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/EmployeeProject.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/List.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Home/Index.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/AddUpdate.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/Delete.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/List.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/Payroll.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/AddUpdate.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Delete.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/List.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Project.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Shared/_AdminLayout.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewImports.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewStart.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Account.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Leave.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Payroll.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Timesheet.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cache
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cs
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CopyComplete
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.dll
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.pdb
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.genruntimeconfig.cache
+/Users/andi/Downloads/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/RequestTime.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.exe
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.deps.json
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.json
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.dev.json
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.pdb
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.AssemblyReference.cache
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfoInputs.cache
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfo.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CoreCompileInputs.cache
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cache
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/PayrollCompany.StaticWebAssets.Manifest.cache
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.input.cache
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.output.cache
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorCoreGenerate.cache
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/Assign.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/Deassign.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/EmployeeProject.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/AddUpdate.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Delete.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Employee.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Home/Index.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/AddUpdate.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/Delete.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/Payroll.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/AddUpdate.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Delete.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Project.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Shared/_AdminLayout.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewImports.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewStart.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Account.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Leave.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Payroll.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/RequestTime.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Timesheet.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cache
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cs
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CopyComplete
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.dll
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.pdb
+C:/Users/foleym9/Downloads/PayrollCompany 5/PayrollCompany 5/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.genruntimeconfig.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.exe
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.deps.json
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.json
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.dev.json
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.pdb
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.AssemblyReference.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfoInputs.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfo.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CoreCompileInputs.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/PayrollCompany.StaticWebAssets.Manifest.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.input.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.output.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorCoreGenerate.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/Assign.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/Deassign.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/EmployeeProject.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/AddUpdate.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Delete.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Employee.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Home/Index.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/AddUpdate.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/Delete.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/Payroll.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/AddUpdate.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Delete.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/List.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Project.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Shared/_AdminLayout.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewImports.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewStart.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Account.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Leave.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Payroll.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/RequestTime.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Timesheet.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cache
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cs
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CopyComplete
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.dll
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.pdb
+C:/Users/foleym9/Downloads/PayrollCompany/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.genruntimeconfig.cache
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.deps.json
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.json
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.runtimeconfig.dev.json
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.pdb
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.AssemblyReference.cache
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfoInputs.cache
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.AssemblyInfo.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CoreCompileInputs.cache
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.MvcApplicationPartsAssemblyInfo.cache
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cache
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorAssemblyInfo.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/staticwebassets/PayrollCompany.StaticWebAssets.Manifest.cache
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.input.cache
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.TagHelpers.output.cache
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorCoreGenerate.cache
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/AddUpdate.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Delete.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/Employee.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Employee/List.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/Assign.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/Deassign.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/EmployeeProject.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/EmployeeProject/List.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Home/Index.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/AddUpdate.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/Delete.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/List.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Payroll/Payroll.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/AddUpdate.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Delete.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/List.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Project/Project.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Shared/_AdminLayout.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewImports.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/_ViewStart.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Account.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Leave.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Payroll.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/RequestTime.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Home/Timesheet.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cache
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.RazorTargetAssemblyInfo.cs
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.Views.pdb
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.csproj.CopyComplete
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.dll
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.pdb
+/Users/nickbeck/Desktop/PayrollCompany 2/PayrollCompany/obj/Debug/netcoreapp3.1/PayrollCompany.genruntimeconfig.cache

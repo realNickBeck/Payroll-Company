@@ -1,0 +1,18 @@
+﻿@model EmployeeProject
+@{
+    ViewBag.Title = "Employee";
+}
+
+<br /><br />
+<div class="row">
+    <div class="col-sm-4">
+        <div class="list-group">
+            <a asp-controller="EmployeeProject" asp-action="Assign"
+               class="list-group-item">Assign Project</a>
+            <a asp-controller="EmployeeProject" asp-action="Deassign"
+               class="list-group-item">Deassign Project</a>
+             <a asp-controller="EmployeeProject" asp-action="List"
+               class="list-group-item">Employee & Project Manager</a>
+        </div>
+    </div>
+</div>

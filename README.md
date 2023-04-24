@@ -35,3 +35,6 @@ Once the plugins are installed you need to make a connection to the local databa
 - "PayrollContext": "Server=(localdb)\\mssqllocaldb;Database=NewPayroll;Trusted_Connection=True;MultipleActiveResultSets=true"
 
 After that you should be able configure and Run the project
+
+# SQL Database Visual
+![image](https://user-images.githubusercontent.com/101303615/234126492-424d7ea0-b766-497f-9d89-1aecdfcf8c5c.png)
